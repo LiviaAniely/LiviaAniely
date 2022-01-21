@@ -22,9 +22,9 @@ Hi 😃 my name is **Lívia Aniely**, I'm 19 years old and I'm a **Computer Scie
 
 - 📫 How to reach me: 
 
-    <code><a href="https://www.linkedin.com/in/livia-aniely-de-oliveira-almeida/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></code>
-    <code><a href="mailto:livia.almeida@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></code>
-    <code><a href="https://www.instagram.com/livia_aniely88/"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></code>
+    <code><a href="https://www.linkedin.com/in/livia-aniely-de-oliveira-almeida/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a></code>
+    <code><a href="mailto:livia.almeida@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a></code>
+    <code><a href="https://www.instagram.com/livia_aniely88/"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></code>
 
 
 
