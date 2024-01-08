@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-Hi 😃 my name is **Lívia Aniely**, I'm 20 years old and I'm a **Computer Science** student at Federal University of Campina Grande(UFCG) in Brazil. I'm interested in  artificial intelligence, web develompment and data science. In my free time, I love listening to music 🎵 and watching tv series 📺.
+Hi 😃 my name is **Lívia Aniely**, I'm 21 years old and I'm a **Computer Science** student at Federal University of Campina Grande(UFCG) in Brazil. 
 
 <img align = "right" width = "200" height = "200" src = "https://user-images.githubusercontent.com/80133560/197303780-29aaee08-8fe7-4c0a-a7e5-2096ed6dd136.png" />
-
-
-
 
 - 💻 Tools and Technologies:
 
