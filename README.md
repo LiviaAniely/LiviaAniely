@@ -5,8 +5,9 @@ Hi 😃 my name is **Lívia Aniely**, I'm 22 years old and I'm a **Computer Scie
 <img align = "right" width = "200" height = "200" src = "https://user-images.githubusercontent.com/80133560/197303780-29aaee08-8fe7-4c0a-a7e5-2096ed6dd136.png" />
 
 - Interests:
-    - Web development
+    - Web Development
     - IA
+    - Data Science
 
 - 💻 Tools and Technologies:
 
@@ -26,6 +27,7 @@ Hi 😃 my name is **Lívia Aniely**, I'm 22 years old and I'm a **Computer Scie
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "30" height = "30"/></code>
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width = "30" height = "30"/></code>
     <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width = "30" height = "30"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width = "30" height = "30"/></code>
 
 - 📫 How to reach me: 
 
